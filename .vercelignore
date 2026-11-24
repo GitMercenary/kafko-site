@@ -1,0 +1,7 @@
+# internal build tooling and notes — kept in git, never served
+build.py
+README.md
+IMAGE-CREDITS.json
+_v1-archive/
+.gitignore
+netlify.toml

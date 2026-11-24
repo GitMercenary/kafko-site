@@ -1,0 +1,6 @@
+# Preview build — blocking all crawlers until go-live.
+# BEFORE LAUNCH: replace with `User-agent: *` + `Allow: /`.
+User-agent: *
+Disallow: /
+
+Sitemap: https://kafko.in/sitemap.xml
